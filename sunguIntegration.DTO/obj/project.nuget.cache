@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0/XrEeA6t0sgX0aYEIcfDKwW81RrPO08zYIl8L5xWIhOE5ATJQHQ0KuCfG3yL2UOW3l2QDhQWaqf3rU6HESXcg==",
+  "success": true,
+  "projectFilePath": "/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.DTO/sunguIntegration.DTO.csproj",
+  "expectedPackageFiles": [
+    "/Users/hudanursungu/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/Users/hudanursungu/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

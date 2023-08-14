@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\sunguIntegration.Dal\sunguIntegration.Dal.csproj" />
+    <ProjectReference Include="..\sunguIntegration.DTO\sunguIntegration.DTO.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="RestSharp" Version="110.2.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Trendyol\" />
+    <None Remove="HepsiBurada\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Trendyol\" />
+    <Folder Include="HepsiBurada\" />
+  </ItemGroup>
+</Project>

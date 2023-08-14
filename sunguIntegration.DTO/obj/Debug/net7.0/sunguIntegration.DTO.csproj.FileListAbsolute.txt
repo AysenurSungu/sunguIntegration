@@ -1,0 +1,12 @@
+/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.DTO/bin/Debug/net7.0/sunguIntegration.DTO.deps.json
+/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.DTO/bin/Debug/net7.0/sunguIntegration.DTO.dll
+/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.DTO/bin/Debug/net7.0/sunguIntegration.DTO.pdb
+/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.DTO/obj/Debug/net7.0/sunguIntegration.DTO.csproj.AssemblyReference.cache
+/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.DTO/obj/Debug/net7.0/sunguIntegration.DTO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.DTO/obj/Debug/net7.0/sunguIntegration.DTO.AssemblyInfoInputs.cache
+/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.DTO/obj/Debug/net7.0/sunguIntegration.DTO.AssemblyInfo.cs
+/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.DTO/obj/Debug/net7.0/sunguIntegration.DTO.csproj.CoreCompileInputs.cache
+/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.DTO/obj/Debug/net7.0/sunguIntegration.DTO.dll
+/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.DTO/obj/Debug/net7.0/refint/sunguIntegration.DTO.dll
+/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.DTO/obj/Debug/net7.0/sunguIntegration.DTO.pdb
+/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.DTO/obj/Debug/net7.0/ref/sunguIntegration.DTO.dll

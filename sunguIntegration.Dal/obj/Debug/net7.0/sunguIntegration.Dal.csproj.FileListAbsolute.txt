@@ -1,0 +1,14 @@
+/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.Dal/bin/Debug/net7.0/sunguIntegration.Dal.deps.json
+/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.Dal/bin/Debug/net7.0/sunguIntegration.Dal.runtimeconfig.json
+/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.Dal/bin/Debug/net7.0/sunguIntegration.Dal.dll
+/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.Dal/bin/Debug/net7.0/sunguIntegration.Dal.pdb
+/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.Dal/obj/Debug/net7.0/sunguIntegration.Dal.csproj.AssemblyReference.cache
+/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.Dal/obj/Debug/net7.0/sunguIntegration.Dal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.Dal/obj/Debug/net7.0/sunguIntegration.Dal.AssemblyInfoInputs.cache
+/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.Dal/obj/Debug/net7.0/sunguIntegration.Dal.AssemblyInfo.cs
+/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.Dal/obj/Debug/net7.0/sunguIntegration.Dal.csproj.CoreCompileInputs.cache
+/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.Dal/obj/Debug/net7.0/sunguIntegration.Dal.dll
+/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.Dal/obj/Debug/net7.0/refint/sunguIntegration.Dal.dll
+/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.Dal/obj/Debug/net7.0/sunguIntegration.Dal.pdb
+/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.Dal/obj/Debug/net7.0/sunguIntegration.Dal.genruntimeconfig.cache
+/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.Dal/obj/Debug/net7.0/ref/sunguIntegration.Dal.dll

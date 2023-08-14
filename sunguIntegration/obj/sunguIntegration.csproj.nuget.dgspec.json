@@ -1,0 +1,345 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration/sunguIntegration.csproj": {}
+  },
+  "projects": {
+    "/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.Dal/sunguIntegration.Dal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.Dal/sunguIntegration.Dal.csproj",
+        "projectName": "sunguIntegration.Dal",
+        "projectPath": "/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.Dal/sunguIntegration.Dal.csproj",
+        "packagesPath": "/Users/hudanursungu/.nuget/packages/",
+        "outputPath": "/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.Dal/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hudanursungu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.DTO/sunguIntegration.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.DTO/sunguIntegration.DTO.csproj",
+        "projectName": "sunguIntegration.DTO",
+        "projectPath": "/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.DTO/sunguIntegration.DTO.csproj",
+        "packagesPath": "/Users/hudanursungu/.nuget/packages/",
+        "outputPath": "/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.DTO/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hudanursungu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.Service/sunguIntegration.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.Service/sunguIntegration.Service.csproj",
+        "projectName": "sunguIntegration.Service",
+        "projectPath": "/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.Service/sunguIntegration.Service.csproj",
+        "packagesPath": "/Users/hudanursungu/.nuget/packages/",
+        "outputPath": "/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hudanursungu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.Dal/sunguIntegration.Dal.csproj": {
+                "projectPath": "/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.Dal/sunguIntegration.Dal.csproj"
+              },
+              "/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.DTO/sunguIntegration.DTO.csproj": {
+                "projectPath": "/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.DTO/sunguIntegration.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[110.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration/sunguIntegration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration/sunguIntegration.csproj",
+        "projectName": "sunguIntegration",
+        "projectPath": "/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration/sunguIntegration.csproj",
+        "packagesPath": "/Users/hudanursungu/.nuget/packages/",
+        "outputPath": "/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hudanursungu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/sdk/7.0.302/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.Dal/sunguIntegration.Dal.csproj": {
+                "projectPath": "/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.Dal/sunguIntegration.Dal.csproj"
+              },
+              "/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.DTO/sunguIntegration.DTO.csproj": {
+                "projectPath": "/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.DTO/sunguIntegration.DTO.csproj"
+              },
+              "/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.Service/sunguIntegration.Service.csproj": {
+                "projectPath": "/Users/hudanursungu/Projects/sunguIntegration/sunguIntegration.Service/sunguIntegration.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
